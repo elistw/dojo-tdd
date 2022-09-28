@@ -2,16 +2,4 @@
 
 **Pareando:** Elis Alcantara e Cristiane Damacena
 
-## Instalando os pré requisitos do projeto
-
-### Homebrew
-
-### Java
-
-### Maven
-
-## Rodando o projeto
-
-### Testes
-
-### Classe
+[Setup](https://docs.google.com/document/d/1D2PBjY95mY-y7X9Hz2aKxqbit21Q2edZ_8FIKULGjXo/edit)
